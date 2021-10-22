@@ -1,2 +1,6 @@
 # TC1004B.11
-Buen curso
+TC1004B.11
+
+Super Curso de sistemas operativos :) 
+
+
